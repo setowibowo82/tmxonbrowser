@@ -1,8 +1,6 @@
 # temuxonbrowser
 Run Termux on your Broswer (Likes a Mozzila or Chrome)
 
-![](https://github.com/setowibowo82/temuxonbrowser/blob/main/SC.jpg)
-
 #ON YOUR ANDROID PHONE
 1. Install Termux
 ```
@@ -27,4 +25,8 @@ Run Termux on your Broswer (Likes a Mozzila or Chrome)
 ```
     https://*********.ngrok.io/
 ```
-
+#ON YOUR BROWSER
+```
+     Paste link https://*********.ngrok.io/
+```
+![](https://github.com/setowibowo82/temuxonbrowser/blob/main/SC.jpg)
