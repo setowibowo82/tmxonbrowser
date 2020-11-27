@@ -8,8 +8,9 @@ Run Termux on your Browser (Likes a Mozzila or Chrome)
 ```
 2. Install NGROK on Termux
 ```
-    * Download NGROK from https://ngrok.com/download
     * Sign In on site
+    * Download NGROK from https://ngrok.com/download
+    * unzip /path/to/ngrok.zip 
     * connect your account : ./ngrok authtoken <your_auth_token>
 ```
 3. Install TTYD on Termux
