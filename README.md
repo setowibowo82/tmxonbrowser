@@ -1,5 +1,5 @@
-# temuxonbrowser
-Run Termux on your Broswer (Likes a Mozzila or Chrome)
+# TMXONBROWSER
+Run Termux on your Browser (Likes a Mozzila or Chrome)
 
 #ON YOUR ANDROID PHONE
 1. Install Termux
@@ -17,7 +17,7 @@ Run Termux on your Broswer (Likes a Mozzila or Chrome)
     $ apt get install ttyd
     $ ttyd -p 8080 bash
 ```
-4. Run NGROK on Termux
+4. Run NGROK on Termux (>>>Important<<<: "Enable your Hotspot first") 
 ```
     $ ./ngrok http 8080
 ```
