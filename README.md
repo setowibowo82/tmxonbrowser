@@ -12,7 +12,7 @@ Run Termux on your Broswer (Likes a Mozzila or Chrome)
     * Sign In on site
     * connect your account : ./ngrok authtoken <your_auth_token>
 ```
-3. Install ttyd on Termux
+3. Install TTYD on Termux
 ```
     $ apt get install ttyd
     $ ttyd -p 8080 bash
