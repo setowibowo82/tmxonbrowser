@@ -18,7 +18,8 @@ Run Termux on your Browser (Likes a Remote Virtual Desktop on your Mozzila or Ch
     $ apt get install ttyd
     $ ttyd -p 8080 bash
 ```
-4. Run NGROK on Termux (>>>Important<<<: "Enable your Hotspot first") 
+4. Run NGROK on Termux (>>>Important<<<: "Enable your Hotspot first")
+    alternative without using hotspot, you can install vpn (run NGROK over wifi)  
 ```
     $ ./ngrok http 8080
 ```
