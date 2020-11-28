@@ -1,5 +1,5 @@
 # TMXONBROWSER
-Run Termux on your Browser (Likes a Mozzila or Chrome)
+Run Termux on your Browser (Likes a Remote Virtual Desktop on your Mozzila or Chrome)
 
 #ON YOUR ANDROID PHONE
 1. Install Termux
