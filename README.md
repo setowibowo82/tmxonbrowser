@@ -15,7 +15,7 @@ Run Termux on your Browser (Likes a Remote Virtual Desktop on your Mozzila or Ch
 ```
 3. Install TTYD on Termux
 ```
-    $ apt get install ttyd
+    $ apt install ttyd
     $ ttyd -p 8080 bash
 ```
 4. Run NGROK on Termux (>>>Important<<<: "Enable your Hotspot first")
